@@ -1,6 +1,7 @@
 # Navneet's CV Repository 📄👨‍💻
 
 Welcome to **Navneet's CV Repository**! This repository contains Navneet's latest Curriculum Vitae (*CV*) in PDF format.
+![](https://komarev.com/ghpvc/?username=NavneetKishanS&color=green)
 
 ## Latest CV
 
