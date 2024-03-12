@@ -1,4 +1,4 @@
-# Navneet's CV Repository 📄👨‍💻
+# Navneet's CV 📄👨‍💻
 
 Welcome to **Navneet's CV Repository**! This repository contains Navneet's latest Curriculum Vitae (*CV*) in PDF format.
 
